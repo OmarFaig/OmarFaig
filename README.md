@@ -1,5 +1,15 @@
 # 💫 About Me:
-🚀 What I'm Currently Working On<br>Exploring MLOps: Building my skills to streamline machine learning workflows and optimize deployment pipelines.<br>Computer Vision Projects: Experimenting with image recognition models and object detection algorithms.<br>Developing Transformer Models: Diving deeper into NLP and working on custom transformer-based architectures to understand the inner workings of LLMs.<br>🌱 Currently Learning<br>Edge Computing: Exploring how to deploy AI models on low-power devices for real-time processing.<br>Advanced DevOps Practices: Enhancing my knowledge in CI/CD, Docker, Kubernetes, and cloud infrastructure.<br>Rust Programming: Dipping my toes into Rust to expand my system programming skills.<br>🎯 Areas of Interest<br>MLOps and automation<br>Computer Vision & AI<br>Software Development<br>Data Science and Analytics<br>🎮 Hobbies & Interests<br>Football ⚽: I love watching and analyzing football matches in my spare time.<br>Gaming 🎮: Whether it's strategy games or first-person shooters, I'm always up for a good challenge.<br>Traveling 🌍: Exploring new places and experiencing different cultures whenever I get the chance.<br>🤔 Fun Fact<br>I started my journey in tech with a background in Electrical Engineering and gradually transitioned into AI and machine learning. I’m constantly fascinated by the potential of combining robotics with intelligent systems to create smarter solutions!<br><br>📫 Let's Connect<br>Feel free to reach out if you want to collaborate on a project, share ideas, or just chat about technology and innovation. You can find me on LinkedIn or drop me a message here!
+🚀 What I'm Currently Working On<br>Exploring MLOps: Building my skills to streamline machine learning workflows and optimize deployment pipelines.<br>Computer Vision Projects: Experimenting with image recognition models and object detection algorithms.<br>Developing Transformer Models: Diving deeper into NLP and working on custom transformer-based architectures to understand the inner workings of LLMs.
+
+<br>🌱 Currently Learning<br>Edge Computing: Exploring how to deploy AI models on low-power devices for real-time processing.<br>Advanced DevOps Practices: Enhancing my knowledge in CI/CD, Docker, Kubernetes, and cloud infrastructure.<br>Rust Programming: Dipping my toes into Rust to expand my system programming skills.
+
+<br>🎯 Areas of Interest<br>MLOps and automation<br>Computer Vision & AI<br>Software Development<br>Data Science and Analytics<br>🎮 Hobbies & Interests
+
+<br>Football ⚽: I love watching and analyzing football matches in my spare time.<br>Gaming 🎮: Whether it's strategy games or first-person shooters, I'm always up for a good challenge
+
+.<br>Traveling 🌍: Exploring new places and experiencing different cultures whenever I get the chance.<br>🤔 Fun Fact<br>I started my journey in tech with a background in Electrical Engineering and gradually transitioned into AI and machine learning. I’m constantly fascinated by the potential of combining robotics with intelligent systems to create smarter solutions!<br>
+
+<br>📫 Let's Connect<br>Feel free to reach out if you want to collaborate on a project, share ideas, or just chat about technology and innovation. You can find me on LinkedIn or drop me a message here!
 
 
 ## 🌐 Socials:
