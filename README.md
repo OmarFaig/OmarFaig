@@ -15,7 +15,8 @@
 <br>Data Science and Analytics
 
 <br>🎮 Hobbies & Interests
-<br>Football ⚽: I love watching and analyzing football matches in my spare time.
+<br>Football ⚽ and Formula1 🏎️ : I love watching football matches and formula1 races in my spare time.
+<br>Chess ♟️: I love playing chess.
 
 <br>🤔 Fun Fact
 <br>I started my journey in tech with a background in Electrical Engineering and gradually transitioned into AI and machine learning. I’m constantly fascinated by the potential of combining robotics with intelligent systems to create smarter solutions!<br>
