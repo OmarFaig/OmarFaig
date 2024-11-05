@@ -1,29 +1,32 @@
 # 💫 About Me:
 🚀 What I'm Currently Working On
-<br>Exploring MLOps: Building my skills to streamline machine learning workflows and optimize deployment pipelines.
-<br>Computer Vision Projects: Experimenting with image recognition models and object detection algorithms.
-<br>Developing Transformer Models: Diving deeper into NLP and working on custom transformer-based architectures to understand the inner workings of LLMs.
 
-<br>🌱 Currently Learning
-<br>Edge Computing: Exploring how to deploy AI models on low-power devices for real-time processing.
-<br>Advanced DevOps Practices: Enhancing my knowledge in CI/CD, Docker, Kubernetes, and cloud infrastructure.
+C# .NET Development: Building a cross-platform weather application using C# with .NET and Avalonia UI, aiming for a seamless experience across devices.
+Software Engineering: Continuously improving my skills in developing efficient, user-friendly applications and refining workflows with modern development practices.
+MLOps & Automation: Working on streamlining machine learning workflows and optimizing deployment pipelines for production-ready AI solutions.
+Computer Vision & AI: Experimenting with image recognition models, object detection, and custom transformer models in NLP to enhance understanding of advanced ML concepts.
 
-<br>🎯 Areas of Interest
-<br>MLOps and automation
-<br>Computer Vision & AI
-<br>Software Development
-<br>Data Science and Analytics
+🌱 Currently Learning
 
-<br>🎮 Hobbies & Interests
-<br>Football ⚽ and Formula1 🏎️ : I love watching football matches and formula1 races in my spare time.
-<br>Chess ♟️: I love playing chess.
+Edge Computing: Exploring techniques to deploy AI models on low-power devices for real-time processing and integration with software applications.
+Advanced DevOps Practices: Expanding my skills in CI/CD, Docker, Kubernetes, and cloud infrastructure, applicable to both AI projects and software development.
 
-<br>🤔 Fun Fact
-<br>I started my journey in tech with a background in Electrical Engineering and gradually transitioned into AI and machine learning. I’m constantly fascinated by the potential of combining robotics with intelligent systems to create smarter solutions!<br>
+🎯 Areas of Interest
 
-<br>📫 Let's Connec
-t<br>Feel free to reach out if you want to collaborate on a project, share ideas, or just chat about technology and innovation. You can find me on LinkedIn or drop me a message here!
+Cross-Platform Application Development in C#/.NET
+MLOps & Workflow Automation
+Computer Vision & AI for Software Applications
+Data Science and Analytics
+Agile Software Development Practices
 
+🎮 Hobbies & Interests
+
+Football ⚽ & Formula 1 🏎️: Big fan of football matches and Formula 1 races.
+Chess ♟️: Enthusiastic chess player who enjoys the strategic challenges of the game.
+
+🤔 Fun Fact I started with a background in Electrical Engineering, then transitioned to AI, ML, and software development. I’m passionate about creating solutions at the intersection of intelligent systems and user-centric software design.
+
+📫 Let's Connect If you’re interested in collaborating, sharing ideas, or chatting about tech, feel free to connect with me on LinkedIn or drop me a message here!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-faig-orujlu-/) 
