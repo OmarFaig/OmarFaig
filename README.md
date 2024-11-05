@@ -1,28 +1,29 @@
-# 💫 About Me:🚀 What I'm Currently Working On
+## 💫 About Me
 
-    C# .NET Development: Building a cross-platform weather application using C# with .NET and Avalonia UI, aiming for a seamless experience across devices.
-    Software Engineering: Continuously improving my skills in developing efficient, user-friendly applications and refining workflows with modern development practices.
-    MLOps & Automation: Working on streamlining machine learning workflows and optimizing deployment pipelines for production-ready AI solutions.
-    Computer Vision & AI: Experimenting with image recognition models, object detection, and custom transformer models in NLP to enhance understanding of advanced ML concepts.
+### 🚀 What I'm Currently Working On
 
-🌱 Currently Learning
+- **C# .NET Development**: Building a cross-platform weather application using C# with .NET and Avalonia UI, aiming for a seamless experience across devices.
+- **Software Engineering**: Continuously improving my skills in developing efficient, user-friendly applications and refining workflows with modern development practices.
+- **MLOps & Automation**: Working on streamlining machine learning workflows and optimizing deployment pipelines for production-ready AI solutions.
+- **Computer Vision & AI**: Experimenting with image recognition models, object detection, and custom transformer models in NLP to enhance understanding of advanced ML concepts.
 
-    Edge Computing: Exploring techniques to deploy AI models on low-power devices for real-time processing and integration with software applications.
-    Advanced DevOps Practices: Expanding my skills in CI/CD, Docker, Kubernetes, and cloud infrastructure, applicable to both AI projects and software development.
+### 🌱 Currently Learning
 
-🎯 Areas of Interest
+- **Edge Computing**: Exploring techniques to deploy AI models on low-power devices for real-time processing and integration with software applications.
+- **Advanced DevOps Practices**: Expanding my skills in CI/CD, Docker, Kubernetes, and cloud infrastructure, applicable to both AI projects and software development.
 
-    Cross-Platform Application Development in C#/.NET
-    MLOps & Workflow Automation
-    Computer Vision & AI for Software Applications
-    Data Science and Analytics
-    Agile Software Development Practices
+### 🎯 Areas of Interest
 
-🎮 Hobbies & Interests
+- Cross-Platform Application Development in C#/.NET
+- MLOps & Workflow Automation
+- Computer Vision & AI for Software Applications
+- Data Science and Analytics
+- Agile Software Development Practices
 
-    Football ⚽ & Formula 1 🏎️: Big fan of football matches and Formula 1 races.
-    Chess ♟️: Enthusiastic chess player who enjoys the strategic challenges of the game.
+### 🎮 Hobbies & Interests
 
+- **Football ⚽ & Formula 1 🏎️**: Big fan of football matches and Formula 1 races.
+- **Chess ♟️**: Enthusiastic chess player who enjoys the strategic challenges of the game.
 
 📫 Let's Connect If you’re interested in collaborating, sharing ideas, or chatting about tech, feel free to connect with me on LinkedIn or drop me a message here!
 ## 🌐 Socials:
