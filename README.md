@@ -7,23 +7,13 @@
 - **MLOps & Automation**: Working on streamlining machine learning workflows and optimizing deployment pipelines for production-ready AI solutions.
 - **Computer Vision & AI**: Experimenting with image recognition models, object detection, and custom transformer models in NLP to enhance understanding of advanced ML concepts.
 
-### 🌱 Currently Learning
-
-- **Edge Computing**: Exploring techniques to deploy AI models on low-power devices for real-time processing and integration with software applications.
-- **Advanced DevOps Practices**: Expanding my skills in CI/CD, Docker, Kubernetes, and cloud infrastructure, applicable to both AI projects and software development.
-
 ### 🎯 Areas of Interest
 
 - Cross-Platform Application Development in C#/.NET
 - MLOps & Workflow Automation
 - Computer Vision & AI for Software Applications
 - Data Science and Analytics
-- Agile Software Development Practices
 
-### 🎮 Hobbies & Interests
-
-- **Football ⚽ & Formula 1 🏎️**: Big fan of football matches and Formula 1 races.
-- **Chess ♟️**: Enthusiastic chess player who enjoys the strategic challenges of the game.
 
 📫 Let's Connect If you’re interested in collaborating, sharing ideas, or chatting about tech, feel free to connect with me on LinkedIn or drop me a message here!
 ## 🌐 Socials:
