@@ -1,11 +1,3 @@
-## 💫 About Me
-
-### 🚀 What I'm Currently Working On
-
-- **C# .NET Development**: Building a cross-platform weather application using C# with .NET and Avalonia UI, aiming for a seamless experience across devices.
-- **Software Engineering**: Continuously improving my skills in developing efficient, user-friendly applications and refining workflows with modern development practices.
-- **MLOps & Automation**: Working on streamlining machine learning workflows and optimizing deployment pipelines for production-ready AI solutions.
-- **Computer Vision & AI**: Experimenting with image recognition models, object detection, and custom transformer models in NLP to enhance understanding of advanced ML concepts.
 
 ### 🎯 Areas of Interest
 
@@ -26,10 +18,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OmarFaig&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarFaig&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=OmarFaig&icon=2&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
