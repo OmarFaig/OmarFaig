@@ -1,12 +1,4 @@
 
-### 🎯 Areas of Interest
-
-- Cross-Platform Application Development in C#/.NET
-- MLOps & Workflow Automation
-- Computer Vision & AI for Software Applications
-- Data Science and Analytics
-
-
 📫 Let's Connect If you’re interested in collaborating, sharing ideas, or chatting about tech, feel free to connect with me on LinkedIn or drop me a message here!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-faig-orujlu-/) 
